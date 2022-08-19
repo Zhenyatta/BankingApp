@@ -1,2 +1,0 @@
-# BankingApp
-Banker Application
